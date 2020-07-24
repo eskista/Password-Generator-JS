@@ -1,5 +1,3 @@
-# Homework.Three
-
 # Project Title
 
 Password Generator Application
